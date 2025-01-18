@@ -1,0 +1,35 @@
+Projet réalisé dans le cadre d'un projet d'étudiant.
+
+# Liens et auteurs des sprites du jeu :
+
+Dague provenant de l'asset "fantasy weapons" par YohkGames (https://yohkgames.itch.io/fantasy-weapons-pt2)
+
+EpeeLegendaire, Hache, Arme, Pieces, et Sac d'or provenant de l'asset "Shikashis fantasy icons pack" par cheekyinkling (https://cheekyinkling.itch.io/shikashis-fantasy-icons-pack)
+
+Feu de camp de l'asset "Animated pixel campfire" par SMStudios (https://simon-develop.itch.io/2d-campfire-free)
+
+Hero provenant de l'asset Fantasy Knight de aamatniekss (https://aamatniekss.itch.io/fantasy-knight-free-pixelart-animated-character)
+
+Chef des abysses provenant de l'asset EVil Wizard 2 par LuizMelo (https://luizmelo.itch.io/evil-wizard-2)
+
+Gloculaire, Gobelin et Squelette provenant de l'asset "Monsters creatures fantasy" par LuizMelo (https://luizmelo.itch.io/monsters-creatures-fantasy)
+
+Potion provenant de l'asset "Animated Potion Assets Pack" par Flip (https://flippurgatory.itch.io/animated-potion-assets-pack-free?download)
+
+Fond du menu par The Outlander
+https://the-outlander.itch.io/free-dungeon-backgrounds 
+
+# Musique :
+
+"Magic Escape Room"
+
+Instruments: Harp, Bassoon, Flutes, Celesta, Percussion, Oboe, Timpani, Cellos, Basses, Xylophone, Glockenspiel, Violins, Violas, French Horns, Trombones, Tuba, Pipe Organ, Clock Tower, Chimes, Church Bell
+
+Feel: Driving, Grooving, Bouncy
+
+This pieces builds tension and speed all the time. The ramp-up starts slowly, and gets pretty crazy by the end. Like you're solving puzzles in a... Magical Escape Room! There are several natural break-points for easy editing. If you look at the instrument list, you can see where this piece is going.
+
+ISRC: USUAN2200005
+Uploaded: 2022-11-03
+
+(https://incompetech.com/music/royalty-free/music.html?source=codeur-com-blog&utm_source=codeur-com-blog)
